@@ -56,12 +56,12 @@ A beleza desta arquitetura é que **não há processo de build** e **não há de
    \`\`\`
 
 2. **Abra o arquivo no seu navegador:**
-   - Você pode simplesmente dar um duplo-clique no arquivo \`cronograma_junior.html\` para abri-lo localmente (o protocolo \`file://\` suporta a maioria das funções).
+   - Você pode simplesmente dar um duplo-clique no arquivo \`index.html\` para abri-lo localmente (o protocolo \`file://\` suporta a maioria das funções).
    - *Alternativa recomendada (para evitar bloqueios CORS de fontes/Módulos):* Rode um servidor estático simples. Se tiver o Python instalado:
      \`\`\`bash
      python -m http.server 3000
      \`\`\`
-   - Acesse \`http://localhost:3000/cronograma_junior.html\`.
+   - Acesse \`http://localhost:3000/\`.
 
 ---
 
@@ -69,7 +69,7 @@ A beleza desta arquitetura é que **não há processo de build** e **não há de
 
 \`\`\`text
 study-dev/
-├── cronograma_junior.html     # SPA de Entrada (Layout, Views, DOM Nodes)
+├── index.html                 # SPA de Entrada (Layout, Views, DOM Nodes)
 ├── memory.md                  # Histórico e arquitetura profunda do projeto
 ├── README.md                  # Este arquivo
 └── js/
