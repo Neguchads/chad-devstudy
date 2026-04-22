@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀  Chad-DevStudy LMS</h1>
+  <h1>🚀 Chad-DevStudy LMS</h1>
   <p><strong>A Serverless, Fully Client-Side Learning Management System</strong></p>
   
   [![Status](https://img.shields.io/badge/Status-Completed-success.svg)](#)
@@ -20,7 +20,7 @@
 
 > **Note on Content Language:** While the platform's engine, architecture, and codebase are built for global scale (100% Client-Side), the *curriculum content* inside the database (`data.js`) is currently written in Portuguese (PT-BR), as it was originally designed for the Brazilian educational market.
 
-The **Study-Dev LMS** is an end-to-end interactive educational platform designed to run **100% in the browser** (Client-Side). With no external database or hosted back-end required, it renders an extensive Markdown curriculum, persisting state via `localStorage` with full gamification and productivity features.
+The **Chad-DevStudy LMS** is an end-to-end interactive educational platform designed to run **100% in the browser** (Client-Side). With no external database or hosted back-end required, it renders an extensive Markdown curriculum, persisting state via `localStorage` with full gamification and productivity features.
 
 Developed as a portable project, its current curriculum focuses on a "Zero to Junior" roadmap for Software Developers, featuring over **192 lessons, quizzes, and flashcards**.
 
@@ -57,7 +57,7 @@ The beauty of this architecture is that **there is no build process** and **no N
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Oliverark/study-dev.git
+   git clone https://github.com/Neguchads/chad-devstudy.git
    ```
 
 2. **Open the file in your browser:**
@@ -72,7 +72,7 @@ The beauty of this architecture is that **there is no build process** and **no N
 
 <h2 id="versão-em-português">🇧🇷 Versão em Português</h2>
 
-O **Study-Dev LMS** é uma plataforma educacional interativa de ponta a ponta projetada para rodar **100% no navegador** (Client-Side). Sem necessidade de banco de dados externo ou back-end hospedado, ele renderiza um currículo extensivo em Markdown, persistindo o estado via `localStorage` com recursos completos de gamificação e produtividade.
+O **Chad-DevStudy LMS** é uma plataforma educacional interativa de ponta a ponta projetada para rodar **100% no navegador** (Client-Side). Sem necessidade de banco de dados externo ou back-end hospedado, ele renderiza um currículo extensivo em Markdown, persistindo o estado via `localStorage` com recursos completos de gamificação e produtividade.
 
 Desenvolvido como um projeto portável, seu currículo atual foca na formação "Zero to Junior" para Desenvolvedores de Software, contando com mais de **192 aulas, quizzes e flashcards**.
 
@@ -109,7 +109,7 @@ A beleza desta arquitetura é que **não há processo de build** e **não há de
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/Oliverark/study-dev.git
+   git clone https://github.com/Neguchads/chad-devstudy.git
    ```
 
 2. **Abra o arquivo no seu navegador:**
@@ -124,5 +124,5 @@ A beleza desta arquitetura é que **não há processo de build** e **não há de
 
 <div align="center">
   <i>"Não existe perfeito — existe lançado."</i><br>
-  Criado por <strong>Gustavo (neguchads)</strong>
+  Criado por <strong>Gustavo (Chad-DevStudy)</strong>
 </div>
