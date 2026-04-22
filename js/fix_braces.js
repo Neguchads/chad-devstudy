@@ -1,0 +1,7 @@
+const fs = require('fs');
+let c = fs.readFileSync('a:/AI/code-projects/study-dev/js/data.js', 'utf8');
+
+c = c.replace(/                \},\r?\n            \{\r?\n                id: "/g, '                }\n            },\n            {\n                id: "');
+
+fs.writeFileSync('a:/AI/code-projects/study-dev/js/data.js', c);
+console.log('Restored lesson brackets');
